@@ -1,0 +1,101 @@
+,Customer ID,Customer Name,Group ID,Group Name,Relationship Established,Customer Rating,Industry
+0,IFR100,Geiss Company,GRP500,Ventura Ltd,2016-07-31,3,Dairy
+1,IFR101,Jaxbean Group,GRP504,Kroger ,2013-11-22,2,Auto Dealers
+2,IFR102,Ascend Ltd,GRP512,Aurobindo Corp,2013-03-01,2,Gas & Oil
+3,IFR103,Eire Corp,GRP505,TYA Corp,2005-04-09,4,Defense
+4,IFR104,Blogtags Ltd,GRP502,Rite Ltd,2010-11-15,3,Computer Software
+5,IFR105,Family Corp,GRP501,Guthy-Renker ,2003-12-14,3,Printing & Publishing
+6,IFR106,Skidoo Company,GRP507,Supervalu ,2001-12-23,2,Home Builders
+7,IFR107,Amerisourc Corp,GRP502,Rite Ltd,2008-02-05,3,Home Builders
+8,IFR108,Walgreen Corp,GRP515,Mary ,2003-12-04,3,Real Estate
+9,IFR109,Unit Ltd,GRP505,TYA Corp,2008-05-19,3,Construction Services
+10,IFR110,Voonyx Group,GRP505,TYA Corp,2010-04-29,3,Auto Dealers
+11,IFR111,Realcube Company,GRP502,Rite Ltd,2016-09-09,3,Mining
+12,IFR112,Nexus Group,GRP507,Supervalu ,2007-05-03,1,Printing & Publishing
+13,IFR113,Alembic Ltd,GRP516,Cantrell Ltd,2009-02-23,3,Insurance
+14,IFR114,Centizu Company,GRP505,TYA Corp,2010-07-07,3,Insurance
+15,IFR115,Arbor Company,GRP514,Hikma ,2012-08-14,3,Real Estate
+16,IFR116,Liberty Group,GRP517,Wal-Mart Corp,2002-06-22,3,Real Estate
+17,IFR117,Omba Group,GRP501,Guthy-Renker ,2015-10-28,1,Bars & Restaurants
+18,IFR118,Roberts Company,GRP514,Hikma ,2002-05-25,2,Computer Software
+19,IFR119,Tagfeed Ltd,GRP511,Physicians Ltd,2005-03-11,2,Home Builders
+20,IFR120,Viva Ltd,GRP500,Ventura Ltd,2013-08-27,2,Construction
+21,IFR121,SAFEWAY Ltd,GRP500,Ventura Ltd,2003-10-01,2,Business Services
+22,IFR122,Devpoint Group,GRP511,Physicians Ltd,2009-09-06,4,Agriculture
+23,IFR123,Shanghai Group,GRP520,General Ltd,2010-12-31,2,Insurance
+24,IFR124,"OnPoint, Group",GRP514,Hikma ,2011-10-22,5,Defense
+25,IFR125,Fera ,GRP514,Hikma ,2013-10-30,2,Dairy
+26,IFR126,"PharmaForce, ",GRP514,Hikma ,2001-05-01,1,Printing & Publishing
+27,IFR127,Fresno Ltd,GRP517,Wal-Mart Corp,2005-11-13,3,Construction Services
+28,IFR128,"Supervalu, Ltd",GRP514,Hikma ,2011-04-18,2,Insurance
+29,IFR129,Korea Corp,GRP500,Ventura Ltd,2003-12-09,3,Mining
+30,IFR130,Gilead Corp,GRP516,Cantrell Ltd,2006-02-20,3,Construction Services
+31,IFR131,Target ,GRP505,TYA Corp,2006-11-29,1,Defense
+32,IFR132,Nipro ,GRP517,Wal-Mart Corp,2013-01-06,3,Real Estate
+33,IFR133,Elcure Corp,GRP516,Cantrell Ltd,2003-12-02,3,Insurance
+34,IFR134,TEVA Corp,GRP501,Guthy-Renker ,2010-06-20,3,Construction
+35,IFR135,H2O Group,GRP502,Rite Ltd,2016-08-07,3,Construction Services
+36,IFR136,Dr. Ltd,GRP502,Rite Ltd,2014-06-30,3,Computer Software
+37,IFR137,Dudley Group,GRP505,TYA Corp,2006-06-03,4,Construction Services
+38,IFR138,PMC Ltd,GRP514,Hikma ,2001-11-12,3,Insurance
+39,IFR139,Hangzhou ,GRP500,Ventura Ltd,2002-04-22,3,Construction
+40,IFR140,KPSS Ltd,GRP507,Supervalu ,2008-02-24,2,Dairy
+41,IFR141,TOO Corp,GRP514,Hikma ,2003-08-16,1,Auto Dealers
+42,IFR142,"MedImmune, Corp",GRP519,AmerisourceBergen Ltd,2016-08-17,3,Auto Dealers
+43,IFR143,Zeus Group,GRP514,Hikma ,2005-12-13,3,Printing & Publishing
+44,IFR144,Sato ,GRP500,Ventura Ltd,2015-01-25,3,Insurance
+45,IFR145,Amerisourcebergen Group,GRP514,Hikma ,2012-02-08,3,Mining
+46,IFR146,Evonik ,GRP515,Mary ,2002-01-16,5,Computer Software
+47,IFR147,CSL ,GRP512,Aurobindo Corp,2005-04-15,2,Auto Dealers
+48,IFR148,Your ,GRP500,Ventura Ltd,2012-04-20,2,Home Builders
+49,IFR149,DSE Ltd,GRP517,Wal-Mart Corp,2007-01-25,1,Defense
+50,IFR150,Spec ,GRP514,Hikma ,2013-10-13,3,Agriculture
+51,IFR151,"HelloLife, Group",GRP517,Wal-Mart Corp,2015-08-30,1,Business Services
+52,IFR152,Aurolife Corp,GRP500,Ventura Ltd,2006-01-22,3,Construction Services
+53,IFR153,Church Ltd,GRP507,Supervalu ,2002-06-02,2,Business Services
+54,IFR154,Gate Corp,GRP514,Hikma ,2007-03-06,3,Real Estate
+55,IFR155,BB Group,GRP514,Hikma ,2006-06-22,2,Construction Services
+56,IFR156,Stila Ltd,GRP505,TYA Corp,2014-03-17,2,Construction
+57,IFR157,HYVEE Corp,GRP515,Mary ,2008-08-16,2,Agriculture
+58,IFR158,Par Group,GRP500,Ventura Ltd,2010-12-08,1,Construction
+59,IFR159,International Group,GRP502,Rite Ltd,2010-11-03,3,Insurance
+60,IFR160,Jafra Ltd,GRP514,Hikma ,2005-05-28,4,Real Estate
+61,IFR161,Apollo Ltd,GRP507,Supervalu ,2010-04-20,3,Defense
+62,IFR162,Home Corp,GRP514,Hikma ,2005-03-12,1,Auto Dealers
+63,IFR163,Topco Ltd,GRP500,Ventura Ltd,2002-08-19,3,Mining
+64,IFR164,Robinson Group,GRP517,Wal-Mart Corp,2015-08-31,1,Dairy
+65,IFR165,LLC Group,GRP514,Hikma ,2010-10-18,1,Construction Services
+66,IFR166,Brookmeade Corp,GRP500,Ventura Ltd,2008-06-19,3,Home Builders
+67,IFR167,Terrain Corp,GRP516,Cantrell Ltd,2014-01-04,3,Real Estate
+68,IFR168,The Corp,GRP509,DuPuy Corp,2016-07-02,3,Dairy
+69,IFR169,ILMO Group,GRP517,Wal-Mart Corp,2001-11-26,2,Construction Services
+70,IFR170,Geri-Care Corp,GRP516,Cantrell Ltd,2010-11-21,2,Insurance
+71,IFR171,Gensco Ltd,GRP520,General Ltd,2004-08-02,1,Construction
+72,IFR172,Superior Ltd,GRP515,Mary ,2007-11-13,2,Computer Software
+73,IFR173,Faria Group,GRP500,Ventura Ltd,2016-05-01,1,Computer Software
+74,IFR174,First Ltd,GRP511,Physicians Ltd,2006-01-03,3,Insurance
+75,IFR175,White Group,GRP500,Ventura Ltd,2002-08-10,4,Agriculture
+76,IFR176,Sunovion Group,GRP519,AmerisourceBergen Ltd,2004-07-20,3,Home Builders
+77,IFR177,Taro ,GRP516,Cantrell Ltd,2010-08-29,3,Auto Dealers
+78,IFR178,Micro ,GRP501,Guthy-Renker ,2010-09-20,2,Defense
+79,IFR179,Covis Group,GRP500,Ventura Ltd,2013-07-18,3,Auto Dealers
+80,IFR180,International Ltd,GRP502,Rite Ltd,2010-11-05,3,Agriculture
+81,IFR181,Lake Ltd,GRP505,TYA Corp,2004-07-27,3,Construction
+82,IFR182,H&H Ltd,GRP518,Young Corp,2010-05-06,3,Real Estate
+83,IFR183,EXPRO3 Ltd,GRP514,Hikma ,2011-06-21,2,Defense
+84,IFR184,Rhodes ,GRP517,Wal-Mart Corp,2014-11-03,1,Dairy
+85,IFR185,Natures ,GRP520,General Ltd,2003-03-21,3,Computer Software
+86,IFR186,3M Group,GRP502,Rite Ltd,2002-03-24,2,Insurance
+87,IFR187,THE Group,GRP510,New ,2013-03-22,3,Home Builders
+88,IFR188,Personal Ltd,GRP515,Mary ,2002-06-29,3,Construction Services
+89,IFR189,Rugby Ltd,GRP500,Ventura Ltd,2002-05-30,4,Auto Dealers
+90,IFR190,Laboratory ,GRP502,Rite Ltd,2011-10-02,5,Gas & Oil
+91,IFR191,Pharma ,GRP500,Ventura Ltd,2014-08-01,2,Insurance
+92,IFR192,Apotex Corp,GRP502,Rite Ltd,2007-02-22,2,Dairy
+93,IFR193,McKesson Group,GRP516,Cantrell Ltd,2013-06-29,1,Home Builders
+94,IFR194,Bio Ltd,GRP511,Physicians Ltd,2001-12-05,3,Printing & Publishing
+95,IFR195,Dentsply Group,GRP517,Wal-Mart Corp,2009-04-05,1,Insurance
+96,IFR196,EKR Group,GRP500,Ventura Ltd,2005-04-19,3,Bars & Restaurants
+97,IFR197,MSC ,GRP502,Rite Ltd,2013-05-03,2,Printing & Publishing
+98,IFR198,Dong Corp,GRP511,Physicians Ltd,2007-08-27,1,Insurance
+99,IFR199,Mechanical Group,GRP514,Hikma ,2011-10-18,1,Computer Software
