@@ -1,1 +1,2 @@
-khoi tao ban 1
+khoi 1 tao phien ban 1
+
